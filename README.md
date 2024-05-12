@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am a data scientist and memory athlete. <br>I enjoy making FOSS software.<br><br>This is a personal account. 
+# ✨About Me:
+I am a data scientist and memory athlete. 
+<br>I enjoy making FOSS software.<br>
 
 
 # 💻 Tech Stack:
@@ -7,7 +8,6 @@ I am a data scientist and memory athlete. <br>I enjoy making FOSS software.<br><
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sherllyneo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sherllyneo&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sherllyneo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sherllyneo&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
